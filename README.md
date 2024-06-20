@@ -1,5 +1,5 @@
-## oi 👍
-## meu nome é igor
+## Oi 👍
+## Meu nome é Igor
 
-## - estou estudando na alura
+## - Estou estudando na alura
 ![](https://media.tenor.com/n8GgPklh4o0AAAAM/neymar.gif)
